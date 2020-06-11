@@ -1,0 +1,12 @@
+==========================================
+INFORMASI LOGIN
+==========================================
+
+1. Super admin
+    Username  : superadmin
+    password :  superadmin
+
+============================================
+2. Pegawai
+   Username : pegawai
+   Password : pegawai
